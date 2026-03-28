@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2018-03-08",
+    "title": "Section 232 Steel & Aluminum Tariffs",
+    "titleZh": "第232條款鋼鋁關稅",
+    "description": "President Trump signed Proclamations 9704 and 9705 imposing 25% tariffs on imported steel and 10% on imported aluminum, invoking national security authority under Section 232 of the Trade Expansion Act. Most major trading partners were initially subject to the tariffs, though Canada and Mexico later received exemptions under USMCA renegotiation.",
+    "descriptionZh": "川普總統依據《貿易擴張法》第232條款的國家安全授權，簽署第9704及9705號公告，對進口鋼鐵加徵25%關稅、鋁材加徵10%關稅。多數主要貿易夥伴初期均受影響，加拿大與墨西哥嗣後在《美墨加協定》重談過程中獲得豁免。",
+    "affectedEconomies": ["CHN", "EUN", "JPN", "KOR", "TWN", "IND", "VNM", "THA", "MYS", "IDN", "MEX"],
+    "affectedSectors": ["ev-battery"],
+    "tariffRate": 25,
+    "source": "Federal Register / White House Proclamations 9704–9705",
+    "sourceUrl": "https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states"
+  },
+  {
+    "date": "2018-07-06",
+    "title": "First Section 301 China Tariffs — List 1 ($34B)",
+    "titleZh": "第一批對中第301條款關稅（340億美元）",
+    "description": "The USTR's first tranche of Section 301 tariffs took effect, imposing 25% tariffs on $34 billion of Chinese goods across 818 product lines, focused on industrial machinery, aerospace components, and auto parts. China immediately retaliated with equivalent tariffs on U.S. agricultural products and automobiles.",
+    "descriptionZh": "美國貿易代表署第一批第301條款關稅正式生效，對818個稅目、共340億美元的中國商品加徵25%關稅，重點涵蓋工業機械、航太零件及汽車配件。中國隨即對等報復，對美國農產品與汽車加徵相當稅率。",
+    "affectedEconomies": ["CHN"],
+    "affectedSectors": ["semiconductors", "ev-battery"],
+    "tariffRate": 25,
+    "source": "USTR Section 301 Action — List 1",
+    "sourceUrl": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2018/july/ustr-finalizes-tariffs-34-billion-of"
+  },
+  {
+    "date": "2020-01-15",
+    "title": "U.S.-China Phase One Trade Agreement Signed",
+    "titleZh": "美中第一階段貿易協議簽署",
+    "description": "The United States and China signed the Phase One trade agreement, under which China committed to purchase an additional $200 billion in U.S. goods and services over 2020–2021 and agreed to intellectual property, technology transfer, and financial services reforms. Existing Section 301 tariffs remained in place; the U.S. halved the September 2019 List 4A rate from 15% to 7.5%.",
+    "descriptionZh": "美中簽署第一階段貿易協議，中國承諾在2020至2021年間額外購買2,000億美元的美國商品與服務，並同意就智慧財產權、技術轉讓及金融服務進行改革。現行第301條款關稅維持不變，美國將2019年9月第4A批次稅率由15%調降至7.5%。",
+    "affectedEconomies": ["USA", "CHN"],
+    "affectedSectors": ["semiconductors", "smartphones", "ev-battery", "textiles"],
+    "tariffRate": 7.5,
+    "source": "USTR Phase One Trade Agreement",
+    "sourceUrl": "https://ustr.gov/countries-regions/china-mongolia-taiwan/peoples-republic-china/phase-one-trade-deal"
+  },
+  {
+    "date": "2025-04-02",
+    "title": "\"Liberation Day\" — Reciprocal Tariff Executive Order",
+    "titleZh": "「解放日」對等關稅行政命令",
+    "description": "President Trump signed an executive order imposing country-specific \"reciprocal\" tariffs on nearly all trading partners, calculated as roughly half of each country's estimated trade barrier rate. Rates ranged from 10% (baseline) to 49% for Cambodia. China faced an initial 34% reciprocal rate on top of existing Section 301 tariffs, bringing the effective rate on most Chinese goods above 54%. Markets fell sharply on the announcement.",
+    "descriptionZh": "川普總統簽署行政命令，對幾乎所有貿易夥伴實施以貿易壁壘估算值一半為基準的「對等關稅」，稅率從10%基準到柬埔寨的49%不等。中國在現行第301條款基礎上再加34%對等關稅，使多數中國商品實際稅率超過54%。消息公布後全球市場大幅下跌。",
+    "affectedEconomies": ["CHN", "EUN", "JPN", "KOR", "TWN", "VNM", "THA", "MYS", "IND", "IDN", "MEX"],
+    "affectedSectors": ["semiconductors", "smartphones", "ev-battery", "textiles"],
+    "source": "White House Executive Order — Regulating Imports with a Reciprocal Tariff",
+    "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices/"
+  },
+  {
+    "date": "2025-04-09",
+    "title": "90-Day Reciprocal Tariff Pause (All Except China)",
+    "titleZh": "90天對等關稅暫停（中國除外）",
+    "description": "One week after Liberation Day, the White House announced a 90-day pause on the elevated country-specific reciprocal tariffs for all economies except China, reverting most partners to a 10% baseline rate. Simultaneously, tariffs on Chinese goods were raised to 145%, combining the reciprocal rate with earlier Section 301 levies. The move was widely interpreted as an attempt to isolate China while defusing a broader global trade crisis.",
+    "descriptionZh": "「解放日」一週後，白宮宣布對中國以外的所有經濟體暫停實施90天的對等關稅升級措施，多數夥伴回歸10%基準稅率。與此同時，對中國商品的關稅進一步提高至145%，結合對等稅率與原有第301條款稅率。此舉被普遍解讀為孤立中國、同時化解更廣泛全球貿易危機的策略。",
+    "affectedEconomies": ["CHN", "EUN", "JPN", "KOR", "TWN", "VNM", "THA", "MYS", "IND", "IDN", "MEX"],
+    "affectedSectors": ["semiconductors", "smartphones", "ev-battery", "textiles"],
+    "tariffRate": 145,
+    "source": "White House — Modifying Reciprocal Tariff Rates",
+    "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2025/04/modifying-reciprocal-tariff-rates-to-reflect-trading-partner-retaliation-and-alignment/"
+  },
+  {
+    "date": "2025-05-12",
+    "title": "U.S.-China 90-Day Trade Arrangement (Geneva)",
+    "titleZh": "美中日內瓦90天貿易安排",
+    "description": "Following two days of talks in Geneva, the United States and China issued a joint statement announcing a 90-day mutual tariff reduction. The U.S. agreed to reduce tariffs on Chinese goods from 145% to 30%; China agreed to reduce tariffs on U.S. goods from 125% to 10% and suspend non-tariff countermeasures. The arrangement was framed as creating space for a broader negotiated settlement, not a permanent deal.",
+    "descriptionZh": "在日內瓦舉行兩天會談後，美中發表聯合聲明，宣布90天相互降稅安排。美方同意將對中國商品的關稅從145%降至30%，中方同意將對美商品的關稅從125%降至10%並暫停非關稅反制措施。此安排被定性為為更廣泛談判創造空間，而非永久性協議。",
+    "affectedEconomies": ["USA", "CHN"],
+    "affectedSectors": ["semiconductors", "smartphones", "ev-battery", "textiles"],
+    "tariffRate": 30,
+    "source": "U.S.-China Joint Statement on Trade Consultations, Geneva",
+    "sourceUrl": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2025/may/us-china-joint-statement-regarding-trade-consultations"
+  },
+  {
+    "date": "2025-08-07",
+    "title": "U.S.-Japan Bilateral Trade Framework Agreement",
+    "titleZh": "美日雙邊貿易框架協議",
+    "description": "The United States and Japan announced a bilateral trade framework that reduced U.S. auto tariffs on Japanese vehicles from 25% to 15% in exchange for Japanese commitments to increase purchases of U.S. agricultural products, LNG, and defense-related equipment. The agreement preserved Japan's access to the U.S. auto market while deepening the two countries' economic security alignment.",
+    "descriptionZh": "美日宣布雙邊貿易框架協議，美方將對日本汽車的關稅從25%降至15%，換取日本增購美國農產品、液化天然氣及防衛相關設備的承諾。協議維護了日本汽車業的對美市場准入，同時進一步深化兩國的經濟安全合作架構。",
+    "affectedEconomies": ["USA", "JPN"],
+    "affectedSectors": ["ev-battery"],
+    "tariffRate": 15,
+    "source": "USTR / White House — U.S.-Japan Trade Framework",
+    "sourceUrl": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2025/august/us-japan-trade-framework-agreement"
+  },
+  {
+    "date": "2025-11-12",
+    "title": "U.S.-China 90-Day Arrangement Extended",
+    "titleZh": "美中90天貿易安排延期",
+    "description": "With the May 12 Geneva arrangement set to expire, the United States and China agreed to extend the mutual tariff reduction framework for an additional 90 days while substantive negotiations on structural issues continued. The 30% U.S. tariff rate on Chinese goods and China's 10% rate on U.S. goods were maintained through the extension period, avoiding a return to the 145%/125% ceiling.",
+    "descriptionZh": "5月12日日內瓦安排到期在即，美中同意在就結構性議題的實質談判持續進行期間，再延長90天的相互降稅框架。美方對中國商品30%的稅率及中方對美商品10%的稅率在延期期間維持不變，避免重回145%與125%的關稅上限。",
+    "affectedEconomies": ["USA", "CHN"],
+    "affectedSectors": ["semiconductors", "smartphones", "ev-battery", "textiles"],
+    "tariffRate": 30,
+    "source": "USTR / White House — U.S.-China Arrangement Extension",
+    "sourceUrl": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2025/november/us-china-tariff-arrangement-extension"
+  }
+]

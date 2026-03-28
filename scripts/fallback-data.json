@@ -1,0 +1,186 @@
+{
+  "_metadata": {
+    "isFallback": true,
+    "note": "Approximate values derived from publicly reported 2024 and 2018 trade statistics. Do not use for production analysis. Replace with live Comtrade data via npm run update-data.",
+    "sources": [
+      "US Census Bureau Foreign Trade Statistics (summary figures)",
+      "UN Comtrade public data explorer (aggregated)",
+      "McKinsey Global Institute — Geopolitics and the geometry of global trade (2026)",
+      "USITC DataWeb (directional estimates)"
+    ],
+    "generatedAt": "2026-03-27"
+  },
+  "data": [
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "TWN",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 58200000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "KOR",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 32400000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "MYS",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 18800000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 21600000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "smartphones",
+      "hsCode": "8517",
+      "importValue": 54900000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "IND",
+      "sectorId": "smartphones",
+      "hsCode": "8517",
+      "importValue": 11200000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "VNM",
+      "sectorId": "smartphones",
+      "hsCode": "8517",
+      "importValue": 5800000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "VNM",
+      "sectorId": "textiles",
+      "hsCode": "62",
+      "importValue": 9100000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "textiles",
+      "hsCode": "62",
+      "importValue": 14800000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "IDN",
+      "sectorId": "textiles",
+      "hsCode": "62",
+      "importValue": 3200000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "KOR",
+      "sectorId": "ev-battery",
+      "hsCode": "8507",
+      "importValue": 5100000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "JPN",
+      "sectorId": "ev-battery",
+      "hsCode": "8507",
+      "importValue": 4300000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2024,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "ev-battery",
+      "hsCode": "8507",
+      "importValue": 2500000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "TWN",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 34700000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "semiconductors",
+      "hsCode": "8542",
+      "importValue": 30100000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "smartphones",
+      "hsCode": "8517",
+      "importValue": 68400000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "IND",
+      "sectorId": "smartphones",
+      "hsCode": "8517",
+      "importValue": 1100000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "VNM",
+      "sectorId": "textiles",
+      "hsCode": "62",
+      "importValue": 5900000000,
+      "exportValue": 0
+    },
+    {
+      "year": 2018,
+      "reporter": "USA",
+      "partner": "CHN",
+      "sectorId": "textiles",
+      "hsCode": "62",
+      "importValue": 22300000000,
+      "exportValue": 0
+    }
+  ]
+}

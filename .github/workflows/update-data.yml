@@ -1,0 +1,54 @@
+name: Update Trade Data
+
+on:
+  schedule:
+    # 1st of each month at 06:00 UTC
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force commit even if no data changed'
+        required: false
+        default: 'false'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Use deploy key or PAT so the push can trigger the deploy workflow
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run data update
+        env:
+          COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
+        run: npm run update-data
+
+      - name: Check for changes in src/data/
+        id: diff
+        run: |
+          git diff --quiet src/data/ || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push if data changed
+        if: steps.diff.outputs.changed == 'true' || inputs.force == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/
+          git commit -m "chore: update trade data [automated] $(date -u +'%Y-%m-%d')"
+          git push origin main

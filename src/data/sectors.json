@@ -1,0 +1,42 @@
+[
+  {
+    "id": "semiconductors",
+    "label": "Semiconductors & Electronics",
+    "labelZh": "半導體與電子元件",
+    "hsCodes": ["8541", "8542", "8471", "8473"],
+    "description": "Integrated circuits, discrete semiconductors, computers, and electronic components.",
+    "descriptionZh": "積體電路、分立式半導體、電腦及電子零件。",
+    "keyInsight": "Malaysia's Penang and Taiwan's advanced fabs captured back-end and leading-edge work diverted from China, while AI chip demand drove U.S. semiconductor imports to record highs despite the broader trade war.",
+    "keyInsightZh": "馬來西亞檳城與台灣先進晶圓廠承接了從中國轉移的後段及先進製程訂單，AI晶片需求更推動美國半導體進口創歷史新高，使半導體成為貿易戰中逆勢成長的少數品類。"
+  },
+  {
+    "id": "smartphones",
+    "label": "Smartphones & Consumer Electronics",
+    "labelZh": "智慧型手機與消費電子",
+    "hsCodes": ["8517"],
+    "description": "Mobile phones, smartphones, and portable communication devices.",
+    "descriptionZh": "行動電話、智慧型手機及可攜式通訊裝置。",
+    "keyInsight": "India absorbed roughly 40% of the smartphone import value China ceded after 145% tariffs took effect, with Apple's India production ramping to supply a majority of U.S.-bound iPhones by late 2025.",
+    "keyInsightZh": "印度承接了中國在145%關稅衝擊下讓出的約40%智慧型手機進口金額，蘋果印度產線加速擴產，至2025年底已供應美國大部分iPhone出貨量。"
+  },
+  {
+    "id": "ev-battery",
+    "label": "EVs & Battery Chain",
+    "labelZh": "電動車與電池鏈",
+    "hsCodes": ["8703", "8507", "8504"],
+    "description": "Electric passenger vehicles, lithium-ion batteries, and power conversion equipment.",
+    "descriptionZh": "電動乘用車、鋰離子電池及電力轉換設備。",
+    "keyInsight": "Chinese EV makers and battery suppliers remained locked out of the U.S. market by tariffs exceeding 100%, creating an opening for South Korean and Japanese battery chains—though none have yet reached Chinese cost parity.",
+    "keyInsightZh": "中國電動車廠商與電池供應商因逾100%的關稅而持續被拒於美國市場門外，為韓日電池鏈創造了進入空間——儘管雙方在成本競爭力上仍與中國存在明顯差距。"
+  },
+  {
+    "id": "textiles",
+    "label": "Textiles & Light Manufacturing",
+    "labelZh": "紡織與輕工製造",
+    "hsCodes": ["61", "62", "64", "42"],
+    "description": "Knitted and woven apparel, footwear, and leather goods.",
+    "descriptionZh": "針織及梭織成衣、鞋類及皮革製品。",
+    "keyInsight": "Vietnam has surpassed China as the top U.S. apparel and footwear source, though rising Vietnamese labor costs and scrutiny of Chinese-invested Vietnamese factories are pushing buyers toward Bangladesh, Cambodia and Indonesia.",
+    "keyInsightZh": "越南已超越中國成為美國最大成衣與鞋類進口來源地，但越南勞動成本上漲，加上美國對中資越南工廠的審查趨嚴，促使採購商進一步分散至孟加拉、柬埔寨與印尼。"
+  }
+]
