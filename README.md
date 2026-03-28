@@ -2,13 +2,13 @@
 
 An independent analytical tool tracking how U.S. tariff policy since 2018 has redistributed global trade flows across economies and sectors. Built on real data from UN Comtrade and the World Bank — no fabricated numbers, no forecasts.
 
-**Live site:** https://eugeneyip.github.io/global-trade-shock-monitor/
+**Live site:** https://tradewatch.eugeneyip.com
 
 ---
 
 ## Screenshot
 
-*Add a screenshot of the landing page here.*
+<img width="1470" height="842" alt="Screenshot 2026-03-28 at 09 38 30" src="https://github.com/user-attachments/assets/3f504368-8c56-430b-b056-4bf3259bd28c" />
 
 ---
 
