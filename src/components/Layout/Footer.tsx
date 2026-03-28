@@ -97,12 +97,12 @@ export default function Footer() {
         <div style={{ color: MUTED }}>
           Built by{' '}
           <a
-            href="https://github.com/eugeneyip"
+            href="https://eugeneyip.com"
             target="_blank"
             rel="noopener noreferrer"
             style={LINK_STYLE}
           >
-            Eugene Yip<ExternalLinkIcon />
+            © Eugene Yip. All Rights Reserved.<ExternalLinkIcon />
           </a>
           {' · '}
           <a
